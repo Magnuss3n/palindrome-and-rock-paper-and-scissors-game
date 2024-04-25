@@ -1,0 +1,8 @@
+ pal = input("Enter the word: ")
+
+ reverse = pal(::-1)
+
+if (pal == reverse):
+  print("Yes it is a palindrome")
+else:
+  print("No it is not a palindrome")
